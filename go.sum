@@ -2,6 +2,16 @@ github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc h1:7D+Bh06CRPCJO3gr
 github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/ilinovalex86/connection v0.0.1 h1:GF7wEURR/ICOsBuQd6mn1qWqHw70yqopwC062l4kaBs=
 github.com/ilinovalex86/connection v0.0.1/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/connection v0.0.2-0.20230226145824-359008af36aa h1:UQ8VywgWLtu70QgJWnexSi6xHapnj4bgkddiyZEYfR8=
+github.com/ilinovalex86/connection v0.0.2-0.20230226145824-359008af36aa/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/connection v0.0.2-0.20230226150844-542bfdb00993 h1:15jyngCTHsyAT3U7tCW2pB2+wAliWfv/gIygtPTN1Jk=
+github.com/ilinovalex86/connection v0.0.2-0.20230226150844-542bfdb00993/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/connection v0.0.2-0.20230226162423-2b0da178d7e6 h1:w/hsmXahBnY4JM9IBUZoeO5tkEumhf/Pdf30e6sDYoA=
+github.com/ilinovalex86/connection v0.0.2-0.20230226162423-2b0da178d7e6/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/connection v0.0.2-0.20230226164555-581f15496cc3 h1:Xm8RHQR8y/8Pgumo78VT266XgYw9d3m9F4Q4SSmrB+4=
+github.com/ilinovalex86/connection v0.0.2-0.20230226164555-581f15496cc3/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/connection v0.0.2-0.20230226170623-f6fcaca731fe h1:CAl2ewjzJURr05/hnuaXR3xR74DZ1kSnlmO8Z8Ui/nA=
+github.com/ilinovalex86/connection v0.0.2-0.20230226170623-f6fcaca731fe/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
 github.com/ilinovalex86/explorer v0.0.1 h1:yCxoSomOVJM2q6GFr5TlHAOkPFpUqggUObOWky0akUk=
 github.com/ilinovalex86/explorer v0.0.1/go.mod h1:Wb8nDqWS54ZrJASb0Ona8hmmcORcBWDYSSb9yGwVEkg=
 github.com/ilinovalex86/screenshot v0.0.1 h1:KZNVnJyuuiZQCUW7Q9L247AMjUb8J9OD2UzM+56h8js=

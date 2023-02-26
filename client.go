@@ -20,8 +20,8 @@ import (
 )
 
 const configFile = "conf.txt"
-const version = "0.0.10"
-const key = "2112751343910010"
+const version = "0.0.12"
+const key = "2112751343910012"
 
 var conf config
 
@@ -111,16 +111,12 @@ func init() {
 
 //Определяет тип ОС, имя пользователя, домашнюю папку, id.
 func newClient() *clientData {
-	fmt.Println("Инициализация")
 	cl := &clientData{
 		Sep:      ex.Sep,
 		BasePath: ex.BasePath,
 		Version:  conf.VersionClient,
 		System:   ex.System,
 	}
-	fmt.Printf("BasePath: %12s \n", cl.BasePath)
-	fmt.Printf("id: %8s \n", conf.ClientId)
-	fmt.Printf("Version: %8s \n", conf.VersionClient)
 	return cl
 }
 
@@ -473,7 +469,7 @@ func worker(cl *clientData) error {
 		if err != nil {
 			return err
 		}
-		fmt.Printf("%#v %s \n", q, time.Now().Format(time.StampNano))
+		fmt.Printf("%#v %s \n", q, time.Now().Format("02.01.2006 15:04:05"))
 		switch q.Method {
 		case "testConnect":
 			err = cn.SendResponse(cn.Response{}, cl.conn)
@@ -532,7 +528,7 @@ func main() {
 			cl.conn.Close()
 			continue
 		}
-		fmt.Println("Connected")
+		fmt.Printf("Client connected %s \n", time.Now().Format("02.01.2006 15:04:05"))
 		err = worker(cl)
 		if err != nil {
 			fmt.Println(err)

@@ -1,7 +1,7 @@
 {
-  "UpdaterServer": "192.168.1.2:25000",
-  "TcpServer": "192.168.1.2:25001",
-  "StreamServer": "192.168.1.2:25002",
-  "VersionClient": "0.0.10",
-  "ClientId": "5957745041548693"
+  "UpdaterServer": "192.168.1.2:50000",
+  "TcpServer": "192.168.1.2:50001",
+  "StreamServer": "192.168.1.2:50002",
+  "VersionClient": "0.0.12",
+  "ClientId": "6849770091096777"
 }
