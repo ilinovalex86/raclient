@@ -12,6 +12,12 @@ github.com/ilinovalex86/connection v0.0.2-0.20230226164555-581f15496cc3 h1:Xm8RH
 github.com/ilinovalex86/connection v0.0.2-0.20230226164555-581f15496cc3/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
 github.com/ilinovalex86/connection v0.0.2-0.20230226170623-f6fcaca731fe h1:CAl2ewjzJURr05/hnuaXR3xR74DZ1kSnlmO8Z8Ui/nA=
 github.com/ilinovalex86/connection v0.0.2-0.20230226170623-f6fcaca731fe/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/connection v0.0.2-0.20230227063910-602ad4babb56 h1:A2T1Qc4Q+Okb98a3ZTn2ad7uDQyXtAVTEdfRGfHftgE=
+github.com/ilinovalex86/connection v0.0.2-0.20230227063910-602ad4babb56/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/connection v0.0.2-0.20230227070246-6c51c13e5c21 h1:NjbB7qJkREsagaZ6bVdDZJbBn0fFA9zvM5aXPDpl8Io=
+github.com/ilinovalex86/connection v0.0.2-0.20230227070246-6c51c13e5c21/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/connection v0.0.2 h1:4smgCW87hw3TnidEvm7Li+nJoy8VXMWOsV6ddcyjBQM=
+github.com/ilinovalex86/connection v0.0.2/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
 github.com/ilinovalex86/explorer v0.0.1 h1:yCxoSomOVJM2q6GFr5TlHAOkPFpUqggUObOWky0akUk=
 github.com/ilinovalex86/explorer v0.0.1/go.mod h1:Wb8nDqWS54ZrJASb0Ona8hmmcORcBWDYSSb9yGwVEkg=
 github.com/ilinovalex86/screenshot v0.0.1 h1:KZNVnJyuuiZQCUW7Q9L247AMjUb8J9OD2UzM+56h8js=
